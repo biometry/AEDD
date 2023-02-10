@@ -2,6 +2,9 @@
 
 African Elephant Demographic Database (AEDD) and metadata resulting from a systematic review of the scientific and ‘grey’ literature on African elephant demography.
 
+![elephant](https://user-images.githubusercontent.com/124582074/218083298-21394c3a-8adf-4c3d-b364-123f5c761912.JPG)
+
+
 This is the github repository for the database published by Hauenstein et al. (2022, see PDF in folder `resources`).
 For details of which literature was used, see that publication.
 
